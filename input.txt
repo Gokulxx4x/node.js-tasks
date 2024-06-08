@@ -1,0 +1,2 @@
+Hello, this is a sample text file.
+We will modify its content using Node.js.
